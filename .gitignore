@@ -1,0 +1,5 @@
+# .gitignore — ignore any decrypted output files
+*.decrypted
+*.decrypted.*
+.env
+.env.local
